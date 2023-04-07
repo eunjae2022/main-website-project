@@ -1,0 +1,15 @@
+샤용법 참고
+
+cd 이동
+
+git add 추가
+
+git commit -m "Add Text File [프로젝트 이름]" 커밋
+
+git push 완료후 업로드
+
+git clone https://github.com/eunjae2022/main-website-project.git 동기화
+
+
+
+
