@@ -1,0 +1,19 @@
+branch 생성 및 다양한 기능 사용 설명서
+
+git branch 현재 생성된 브랜치 확인
+
+git branch develop 디밸롭 생성
+
+git checkout develop 디밸롭 파일로 변경
+
+깃 에드 (온점사용)
+
+이후 커밋
+
+git log 현재 상태 확인
+
+git merge develop 메인 디벨롭 합치기
+
+깃 푸시 마무리
+
+git branch -d develop 디벨롭 삭제
